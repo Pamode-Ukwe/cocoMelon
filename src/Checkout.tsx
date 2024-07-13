@@ -1,6 +1,6 @@
 import firstImage from './assets/6.png'
-import secondImage from './assets/12.png'
-import thirdImage from './assets/11.png'
+import secondImage from './assets/4.png'
+import thirdImage from './assets/8.png'
 
 const Checkout = () => {
   return (
